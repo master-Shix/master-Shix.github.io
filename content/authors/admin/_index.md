@@ -85,4 +85,4 @@ skills:
 highlight_name: true
 ---
 
-I am a graduate master student at the [Department of Computer Engineering](https://cde.nus.edu.sg/ece/), [Show Lab @ National University of Singapore](https://sites.google.com/view/showlab),  supervised by [Prof. Mike Zheng Shou](https://cde.nus.edu.sg/ece/staff/shou-zheng-mike/). 
+I am a graduate master student at the [Department of Computer Engineering](https://cde.nus.edu.sg/ece/), [Show Lab @ National University of Singapore](https://sites.google.com/view/showlab),  supervised by [Prof. Mike Zheng Shou](https://cde.nus.edu.sg/ece/staff/shou-zheng-mike/). You can find my CV here: [Yufei Shi's Curriculum Vitae](../static/uploads/CV-Shi_Yufei.pdf) and [Chinese CV](../static/uploads/申请简历_师羽飞.pdf).
