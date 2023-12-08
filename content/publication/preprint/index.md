@@ -1,7 +1,7 @@
 ---
 title: "Exploration of the Ability of Fungi for Decomposing Natural Resources Based on Multiple Regression Equation and Cellular Automata"
 authors:
-- Yufei Shi,
+- "**Yufei Shi**",
 - Yijiang Guan
 - Dingye Zhang
 date: "2021-12-07T00:00:00Z"
