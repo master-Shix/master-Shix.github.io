@@ -91,15 +91,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
+        - certificate_url: https://sites.google.com/view/showlab
+          date_end: '2023-12-1'
+          date_start: '2022-08-1'
+         # description: ''
+          icon: showlab.png
+          organization: Show Lab
+          organization_url: https://sites.google.com/view/showlab
+          title: Master Student
+          #url: ''
     design:
       columns: '2'
 
