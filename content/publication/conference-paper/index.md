@@ -10,7 +10,7 @@ authors:
   - Xintao Wang
   - Stan Weixian Lei
   - Yuchao Gu
-  - "**Yufei Shi**"
+  - Yufei Shi
   - Wynne Hsu
   - Ying Shan
   - Xiaohu Qie
