@@ -2,7 +2,7 @@
 title: ColonNeRF Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction
 summary: We propose a neural rendering framework for reconstructing the entire colon. Submitted to IEEE Trans. Medical Imaging (Under Review).   
 author: 
-  - *Yufei Shi*
+  - **Yufei Shi**
   - Beijia Lu
   - Jia-Wei Liu
   - Ming Li
