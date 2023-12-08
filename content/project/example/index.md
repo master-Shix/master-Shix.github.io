@@ -18,6 +18,8 @@ external_link: 'https://showlab.github.io/ColonNeRF/'
 image:
   caption: The Overview of Model
   focal_point: Smart
+  path:"featured.png"
+  
 
 #links:
 #  - icon: twitter
