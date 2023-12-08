@@ -1,5 +1,5 @@
 ---
-title: 'Tune-A-Video'
+title: 'Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
