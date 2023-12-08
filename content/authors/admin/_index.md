@@ -3,7 +3,7 @@
 title: 师羽飞
 
 # Name pronunciation (optional)
-name_pronunciation: Yufei Shi
+#name_pronunciation: Yufei Shi
 
 # Full name (for SEO)
 first_name: Yufei
