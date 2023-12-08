@@ -63,10 +63,10 @@ url_project: 'https://tuneavideo.github.io'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'tune_a_video.png'
+  caption: 'tune_a_video'
   focal_point: ''
   preview_only: false
-  name: 'tune_a_video.png'
+  
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
