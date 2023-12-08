@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 师羽飞
+title: Yufei Shi (师羽飞)
 
 # Name pronunciation (optional)
 #name_pronunciation: Yufei Shi
