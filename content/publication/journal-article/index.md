@@ -1,7 +1,7 @@
 ---
 title: "ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction"
 authors:
-- Yufei Shi
+- "**Yufei Shi**"
 - Beijia Lu
 - Jia-Wei Liu
 - Ming Li
