@@ -113,10 +113,10 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: e1011114@u.nus.edu
       contact_links:
-        - icon: video
+        - icon: google
           icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          name: Google scholar
+          link: 'https://scholar.google.com.hk/citations?user=rpnlkwEAAAAJ&hl=zh-CN'
       # Automatically link email and phone or display as text?
       autolink: true
       form:
