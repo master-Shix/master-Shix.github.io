@@ -62,27 +62,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: Algorithm Research Intern
+          company: Sony China
+          company_url: 'https://www.sony.com.cn/'
+          company_logo: sony.png
+          location: China
+          date_start: '2022-02-01'
+          date_end: '2022-05-31'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Participate in the deep learning-based diseased chicken identification project, establish SSD, FSSD, IFSSD models for picture training, parameter adjustment, and finally realize the rapid and accurate identification of diseased chickens.
+              * Participate in Sony sensor environmental testing project pre-data processing process
+              * Participate in the human motion capture project based on inertial sensor and monocular vision sensor fusion, use public 3D extraction method from motion video to extract motion information, use motion Builder and other tools to create bones, describe motion information, model binding work, animation stitching work.
+       
     design:
       columns: '2'
   - block: accomplishments
