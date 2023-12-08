@@ -147,7 +147,7 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: e1011114@example.org
+      email: e1011114@u.nus.edu
       contact_links:
         - icon: video
           icon_pack: fas
