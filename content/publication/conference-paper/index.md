@@ -63,7 +63,8 @@ url_project: 'https://tuneavideo.github.io'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: 'tune_a_video.png' #[**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  image_named:'tune_a_video.png'
   focal_point: ''
   preview_only: false
 
