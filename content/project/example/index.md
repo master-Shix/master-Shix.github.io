@@ -18,7 +18,7 @@ external_link: 'https://showlab.github.io/ColonNeRF/'
 image:
   caption: The Overview of Model
   focal_point: Smart
-  path: "featured.png"
+  #path: "featured.png"
   
 
 #links:
@@ -27,7 +27,7 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 #url_code: ''
-url_pdf: '/https://arxiv.org/pdf/2312.02015.pdf'
+url_pdf: 'https://arxiv.org/abs/2312.02015'
 #url_slides: ''
 #url_video: ''
 
