@@ -1,6 +1,8 @@
 ---
 title: ColonNeRF Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction
-summary: Yufei Shi, Beijia Lu, Jia-Wei Liu, Ming Li, Mike Zheng Shou   Submitted to IEEE Trans. Medical Imaging.   We propose a neural rendering framework for reconstructing the entire colon.
+summary: Yufei Shi, Beijia Lu, Jia-Wei Liu, Ming Li, Mike Zheng Shou   
+Submitted to IEEE Trans. Medical Imaging.   
+We propose a neural rendering framework for reconstructing the entire colon.
 tags:
   - Deep Learning
 #date: '2016-04-27T00:00:00Z'
