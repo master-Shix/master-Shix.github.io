@@ -1,3 +1,9 @@
+# Authors
+- **Yufei Shi**
+- Beijia Lu
+- Jia-Wei Liu
+- Ming Li
+- Mike Zheng Shou
 ---
 title: "Exploration of the Ability of Fungi for Decomposing Natural Resources Based on Multiple Regression Equation and Cellular Automata"
 authors:
