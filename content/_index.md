@@ -84,8 +84,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://sites.google.com/view/showlab
-          date_end: '2023-12-1'
-          date_start: '2022-08-1'
+          date_end: '2023-12-01'
+          date_start: '2022-08-01'
          # description: ''
           icon: showlab.png
           organization: Show Lab
