@@ -61,9 +61,31 @@ sections:
               * Participate in the deep learning-based diseased chicken identification project, establish SSD, FSSD, IFSSD models for picture training, parameter adjustment, and finally realize the rapid and accurate identification of diseased chickens.
               * Participate in Sony sensor environmental testing project pre-data processing process
               * Participate in the human motion capture project based on inertial sensor and monocular vision sensor fusion, use public 3D extraction method from motion video to extract motion information, use motion Builder and other tools to create bones, describe motion information, model binding work, animation stitching work.
-       
+  - block: collection
+    id: featured
+    content:
+        title: Featured Publications
+        filters:
+          folders:
+            - publication
+          featured_only: true
+    design:
+        columns: '2'
+        view: card
+  - block: collection
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
     design:
       columns: '2'
+      view: citation   
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
