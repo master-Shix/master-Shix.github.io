@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction"
 authors:
 - Yufei Shi
 - Beijia Lu
