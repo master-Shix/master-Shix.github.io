@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master of Computer Engineering
+role: Phd of Medical Ai
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: National University of Singapore
-    url: https://nus.edu.sg/
+  - name: Nanyang Technological University
+    url: https://www.ntu.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -30,15 +30,15 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - 3D Reconstruction/NeRF
-  - Diffusion Models
+  - LLM+Medical
   - Medical Ai
 
 # Education to show in About widget
 education:
   courses:
-    #- course: PhD in Artificial Intelligence
-    #  institution: Stanford University
-    #  year: 2012
+    - course: PhD in Data Science in LKC Medical 
+      institution: Nanyang Technological University
+      year: 2024
     - course: Msc in Computer Engineering
       institution: National University of Singapore
       year: 2022
@@ -84,5 +84,8 @@ skills:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am a PhD student in the Department of Data Science at LKC Medical School, [Nanyang Technological University](https://www.ntu.edu.sg/), under the supervision of [Prof. Si Yong Yeo](https://medvisailab.github.io/), [Prof. Yu Baosheng](https://scholar.google.com/citations?user=fjzIdMQAAAAJ&hl=en), and [Prof. Li Ming](https://ming1993li.github.io/).
 
-I am a graduate master student at the [Department of Computer Engineering](https://cde.nus.edu.sg/ece/), [Show Lab @ National University of Singapore](https://sites.google.com/view/showlab),  supervised by [Prof. Mike Zheng Shou](https://cde.nus.edu.sg/ece/staff/shou-zheng-mike/). You can find my CV here: [Yufei Shi's Curriculum Vitae](../static/uploads/CV-Shi_Yufei.pdf) and [Chinese CV](../static/uploads/申请简历_师羽飞.pdf).
+I completed my master’s degree at the [Department of Computer Engineering](https://cde.nus.edu.sg/ece/), [Show Lab @ National University of Singapore](https://sites.google.com/view/showlab), where I was supervised by [Prof. Mike Zheng Shou](https://cde.nus.edu.sg/ece/staff/shou-zheng-mike/).
+
+You can find my CV here: [Yufei Shi's Curriculum Vitae](../static/uploads/CV-Shi_Yufei.pdf) and [Chinese CV](../static/uploads/申请简历_师羽飞.pdf).
